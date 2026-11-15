@@ -3,6 +3,7 @@
 }
 body{
     background-image: url("bg2.png");
+    background-repeat: no-repeat;
     background-position: fixed;
    min-height: 120vh;
    display: grid;
